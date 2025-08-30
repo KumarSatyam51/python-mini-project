@@ -33,4 +33,3 @@ if type(output) == list:
 else:
     print(output)
 
-    print("Hi there")
